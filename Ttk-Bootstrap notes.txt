@@ -1,0 +1,10 @@
+-> Create a virtual environment: py -m venv .venv
+-> Activate the virtual env: . .venv/Scripts/activate
+-> Install TtkBootstrap: py -m pip install ttkbootstrap
+(optional) you can also install ttkbootstrap from github: py -m pip install git+hhtps://github.com/israel-dryer/ttkbootstrap
+-> Update the pip version: py -m pip install --upgrade pip
+-> Too see the default theme: py -m ttkbootstrap
+-> To create your own theme: py -m ttkcreator
+---> Now choose: Name - Base theme - colors - And Save your theme.
+-> 
+
